@@ -5,7 +5,7 @@ title: "Yhteystiedot"
 <font size="3" color="black">
 
 - __Katuosoite:__ Hämeenkatu 25 (liiketalo Majakka), 11100 Riihimäki
-- __Puhelin:__  040-5825216
+- __Puhelin:__  040 58 25 216
 - __Sähköposti:__ salinjari@gmail.com
 - __Facebook:__ [Hieroja Jari Salin](https://www.facebook.com/Hieroja-Jari-Salin-322942934570925/) 
 
@@ -14,9 +14,9 @@ title: "Yhteystiedot"
 
 #### Aukioloajat: ####
 
-Ti, Pe      9:00 - 18:00    <br>
-Ma, Ke, To  9:00 - 12:00     <br>
-Viikonloppuajat sopimuksen mukaan   <br>
+__Ti, Pe__      9:00 - 18:00    <br>
+__Ma, Ke, To__  9:00 - 12:00     <br>
+__Viikonloppuajat__ sopimuksen mukaan   <br>
 <br>
 
 

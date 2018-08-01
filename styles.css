@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 blockquote {
   font-style: italic
 }
@@ -13,20 +13,4 @@ p {
 body{
   font-family: Calibri ;
   font-size: 12pt;
-=======
-blockquote {
-  font-style: italic
-}
-
-
-p {
-    margin: 0;
-    text-indent: 0cm
-}
-
-/* Whole document: */
-body{
-  font-family: Calibri ;
-  font-size: 12pt;
->>>>>>> b202b44511ee815a4075c127bdc9e52cc3c36a12
 }

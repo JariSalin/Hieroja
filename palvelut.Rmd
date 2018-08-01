@@ -5,10 +5,10 @@ title: "Palvelut & hinnasto"
 <font size="3" color="black">
 
 ####Hieronnat:#### 
-- Osahieronta (30 min)________________20e
-- Puolihieronta (45 min)_______________30e
-- Hieronta (60 min)___________________40e
-- Kokovartalohieronta (90 min)__________50e
+- Osahieronta (30 min)_____________20e
+- Puolihieronta (45 min)____________30e
+- Hieronta (60 min)________________40e
+- Kokovartalohieronta (90 min)_______50e
 
 <font size="3" color="blue"> (aromaattiset hieronnat +5e perushierontojen hintoihin) <br>
 <font size="3" color="black"> 
@@ -20,8 +20,8 @@ title: "Palvelut & hinnasto"
 
 #### Muut:####
 
-- Kinesioteippaus____________________15e
-- Verenpaineenmittaus________________5e
+- Kinesioteippaus_________________15e
+- Verenpaineenmittaus_____________5e
 - Kotikäynnit ja lahjakortit sopimuksen mukaan
 
 <br>
