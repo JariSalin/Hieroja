@@ -1,0 +1,23 @@
+name: "Yrityksen kotisivu"
+output_dir: "."
+navbar:
+  title: Jari Salin - hierontaa spa-tunnelmassa
+  left:
+    - text: "Kotisivu"
+      href: index.html
+      icon: fa-home
+    - text: "Palvelut & hinnasto"
+      href: palvelut.html
+      icon: fa-info
+    - text: "Yhteystiedot"
+      href: yhteystiedot.html
+      icon: fa-book
+
+output:
+  html_document:
+    theme: cerulean
+    type: inverse 
+    highlight: textmate
+    include:
+    css: styles.css
+    
