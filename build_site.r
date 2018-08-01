@@ -25,7 +25,7 @@ rmarkdown::render_site("yhteystiedot.Rmd", encoding = 'UTF-8')
 # git add -A #the -A flag tells it git you want everything
 
 #Now we can commit
-#git commit -m "webpage launch"
+#git commit -m "webpage modification"
 
 #Now we push. Note the addendum to normal pushing
 #git push origin master

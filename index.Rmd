@@ -1,7 +1,9 @@
 ---
-title: "Koulutettu hieroja Jari Salin "
+
 
 ---
+#Koulutettu hieroja Jari Salin#
+
 <font size="3" color="black">
 
  - Erikoistunut hierontoihin, kivunhallintaan ja nivelmobilisaatioon.

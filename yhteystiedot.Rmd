@@ -1,7 +1,9 @@
 ---
-title: "Yhteystiedot"
+
 
 ---
+#Yhteystiedot#
+
 <font size="3" color="black">
 
 - __Katuosoite:__ Hämeenkatu 25 (liiketalo Majakka), 11100 Riihimäki
