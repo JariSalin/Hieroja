@@ -1,7 +1,6 @@
----
+<br>
+<br>
 
-
----
 #Palvelut & hinnasto#
 
 <font size="3" color="black">
@@ -10,7 +9,7 @@
 - Osahieronta (30 min)_____________20e
 - Puolihieronta (45 min)____________30e
 - Hieronta (60 min)________________40e
-- Kokovartalohieronta (90 min)_______50e
+- Kokovartalohieronta (90 min)______50e
 
 <font size="3" color="blue"> (aromaattiset hieronnat +5e perushierontojen hintoihin) <br>
 <font size="3" color="black"> 
